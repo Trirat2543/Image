@@ -1,11 +1,9 @@
 import tensorflow as tf
 import streamlit as st
-from PIL import Image
 from keras.utils.np_utils import normalize
 from PIL import Image
 import numpy as np
 from tensorflow import keras
-from keras.preprocessing.image import load_img
 
 
 
