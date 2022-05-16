@@ -1,0 +1,12 @@
+pandas==1.2.0
+numpy==1.22.2
+scikit-learn==1.0.2
+scikit-multilearn==0.2.0
+keras==2.8.0
+numpy==1.22.2
+Keras-Preprocessing==1.1.2
+keras-utils==1.0.13
+streamlit==0.74.1
+streamlit-lottie==0.0.3
+tensorflow==2.8.0
+tensorflow-io-gcs-filesystem==0.24.0
